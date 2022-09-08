@@ -9,7 +9,7 @@
 
 
 # Tech Stack
-**Client:** React, TailwindCSS
+**Client:** React, CSS
 
 **Server:** Node, Express
 
